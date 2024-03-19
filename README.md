@@ -12,8 +12,8 @@
    - 「ver.1.0.5.0」 - GreenCoopApp._
    - 「ver.1.0.6.0」 - GreenCoopApp._
    - グリーンコープ開発スケジュール.pdf
-- [「doc」: 各バージョンの取扱説明書](https://github.com/hayaka59/GreenCoopApplication/tree/main/doc/%E5%8F%96%E6%89%B1%E8%AA%AC%E6%98%8E%E6%9B%B8)
-   - 「取扱説明書」-「初版」 - グリーンコープ様向け_生産管理PC取扱説明書.pdf
-   - 「取扱説明書」-「第2版」- グリーンコープ様向け_生産管理PC取扱説明書.pdf
-   - 「取扱説明書」-「第3版」- グリーンコープ様向け_生産管理PC取扱説明書.pdf
+- [「doc」: 各バージョンの取扱説明書](https://github.com/hayaka59/GreenCoopApplication/tree/main/doc/manual)
+   - 「First-edition」 - グリーンコープ様向け_生産管理PC取扱説明書.pdf
+   - 「2nd-edition」- グリーンコープ様向け_生産管理PC取扱説明書.pdf
+   - 「3rd-edition」- グリーンコープ様向け_生産管理PC取扱説明書.pdf
 
