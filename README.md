@@ -20,4 +20,8 @@
    - 「First-edition」 - グリーンコープ様向け_生産管理PC取扱説明書.pdf
    - 「2nd-edition」- グリーンコープ様向け_生産管理PC取扱説明書.pdf
    - 「3rd-edition」- グリーンコープ様向け_生産管理PC取扱説明書.pdf
+- [「doc/reference」: 参考資料](https://github.com/hayaka59/GreenCoopApplication/tree/main/doc/reference/hardware)
+   - 「hardware」 - 01_印字SW結線図.pdf
+   - 「hardware」 - 02_印字SW単体動作確認.pdf
+   - 「hardware」 - 03_印字SWアプリ動作確認.pdf
 
