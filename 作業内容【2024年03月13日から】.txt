@@ -471,4 +471,23 @@
 	git commit -m "update:README.md 更新"
 	git commit -m "update:作業内容【2024年03月13日から】.txt 更新"
 
+〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓
+2024年08月02日(金)作業内容
+　→ 下記の資料追加。
+　（１）01_印字SW結線図.pdf
+		git commit -m "add:資料「01_印字SW結線図.pdf」の追加"
+　（２）02_印字SW単体動作確認.pdf
+		git commit -m "add:資料「02_印字SW単体動作確認.pdf」の追加"
+　（３）03_印字SWアプリ動作確認.pdf
+		git commit -m "add:資料「03_印字SWアプリ動作確認.pdf」の追加"
+　（４）README更新。
+		git commit -m "update:README.md 更新"
+
+〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓
+2024年08月06日(火)作業内容
+	git commit -m "add:GCアプリ「Ver.1.0.10.0」の追加"
+	git commit -m "update:README.md 更新"
+	git commit -m "update:作業内容【2024年03月13日から】.txt 更新"
+
+
 以上。
