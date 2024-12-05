@@ -498,5 +498,6 @@
 	git commit -m "add:資料「グリーンコープ様向け_生産管理PC取扱説明書.pdf」の追加"
 
 	git commit -m "update:2024年12月05日(木)の作業内容更新"
-
+	git commit -m "update:README.mdの更新"
+	
 以上。
