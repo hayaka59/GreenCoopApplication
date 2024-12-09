@@ -497,7 +497,12 @@
 2024年12月05日(木)作業内容
 	git commit -m "add:資料「グリーンコープ様向け_生産管理PC取扱説明書.pdf」の追加"
 
-	git commit -m "update:2024年12月05日(木)の作業内容更新"
+〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓
+2024年12月09日(月)作業内容
+	git commit -m "add:GCアプリ「Ver.1.0.11.0」の追加"
+	git commit -m "add:資料「判定が未印字となるケース.pdf」の追加"
+
 	git commit -m "update:README.mdの更新"
+	git commit -m "update:2024年12月05日(木)の作業内容更新"
 	
 以上。
